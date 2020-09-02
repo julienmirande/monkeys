@@ -1,0 +1,200 @@
+a DT
+country NN
+road NN
+tree JJ NN VBP
+evening NN VBG
+estragon NN VBP VB RB JJ IN VBZ
+estragon's NN VBP VB RB JJ IN VBZ
+sitting VBG
+on IN
+low JJ
+mound NN
+is VBZ
+isn't VBZ
+trying VBG
+to TO
+take VB VBP
+off RP IN
+his PRP$
+boot NN
+he PRP
+he's PRP
+pulls VBZ NNS
+at IN
+it PRP
+it's PRP
+with IN
+both DT
+hands NNS VBZ
+panting VBG NN
+gives VBZ
+up RP IN RB
+exhausted JJ
+rests NNS
+tries NNS VBZ
+again RB
+as IN RB
+before IN RB
+enter NN JJ VB JJR RBR VBP
+vladimir NN JJ NNS VB FW RB VBP IN
+vladimir's NN JJ NNS VB FW RB VBP IN
+nothing NN
+be VB
+done VBN
+i JJ NNS NN VBP VB RB VBZ VBN WDT
+beginning VBG NN
+come VB VBN NN VBP NNS JJ
+round NN IN RB
+that DT IN RB WDT
+opinion NN
+all DT PDT RB
+my PRP$
+life NN
+have VBP VB
+haven't VBP
+tried VBN
+put VB VBN VBD VBP
+from IN
+me PRP
+saying VBG
+reasonable JJ
+you PRP
+yet RB
+everything NN
+everything's NN
+and CC
+resumed VBD
+the DT
+struggle NN
+so RB IN
+there RB EX
+are VBP
+am VBP
+glad JJ
+see VB VBP
+back RB NN JJ RP VB
+thought NN VBN VBD
+were VBD
+weren't VBD
+gone VBN
+forever RB
+too RB
+together RB
+last JJ
+we PRP
+will MD
+celebrate VB
+this DT
+but CC
+how WRB
+how's WRB
+get VB VBP
+till NN VB VBP IN
+embrace NN VBP
+not RB
+now RB
+may MD
+one CD NN
+one's CD NN
+inquire NN
+where WRB
+highness NN
+spent VBD
+night NN
+in IN
+ditch NN
+over IN RP RB
+they PRP
+did VBD
+beat VB VBP VBD
+certainly RB
+same JJ
+lot NN
+usual JJ
+do VBP VB NN
+know VB VBP VBD
+when WRB
+think VBP VB NN
+of IN
+these DT
+years NNS
+for IN
+would MD
+more JJR RBR
+than IN
+little JJ RB
+heap NN
+bones NNS
+present JJ VBP
+minute NN
+no DT RB
+doubt NN VB
+about IN RB RP
+what WP WDT
+what's WP WDT
+much JJ RB
+man NN
+other JJ
+hand NN
+good JJ VBD
+losing VBG
+heart NN
+say VBP VB NN
+should MD
+million CD
+ago RB IN
+nineties NNS
+ah VBP JJ NN VBZ IN RP RB VB
+stop VB NN JJ
+blathering NN VBG
+help VB NN VBP JJ
+bloody JJ NN
+thing NN
+top NN
+eiffel JJ
+tower NN
+among IN
+first JJ RB
+respectable JJ
+those DT
+days NNS
+late JJ RB
+even RB
+let VB NN VBD VBP IN
+let's VB NN VBD VBP IN
+us PRP
+doing VBG
+taking VBG
+never RB
+happen VB VBP
+boots VB NNS NN
+must MD
+taken VBN
+every DT
+day NN
+tired JJ VBN
+telling NN
+why WRB
+listen VB IN VBP
+hurts VBZ
+wants VBZ
+if IN
+ever RB
+suffers VBZ NNS
+count VB
+like VB IN VBP JJ
+hear VB VBP
+had VBD VBN
+hadn't VBD VBN
+might MD
+button VB
+true JJ
+neglect VBP
+things NNS
+expect VB
+always RB
+wait VBP VB NN IN JJ
+moment NN
+hope NN VBP
+deferred VBN
+maketh IN

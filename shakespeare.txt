@@ -1,0 +1,200 @@
+from IN
+fairest JJS
+creatures NNS
+we PRP
+desire VBP NN
+increase VB NN
+that DT IN WDT
+that's DT IN WDT
+thereby JJ NN
+beauty NN JJ RB VB
+rose VBD
+might MD
+never RB
+die VB JJ NN IN
+but CC
+as IN RB
+the DT
+riper NN
+should MD
+by IN
+time NN
+decease VB NN
+his PRP$
+tender NN
+heir NN PRP$
+bear VB JJ NN
+memory NN
+thou NN JJ VBZ IN VB VBP VBD NNS VBN RB
+contracted VBD
+to TO
+thine VB JJ NN IN VBP
+own JJ VBP
+bright JJ NN VBN RB
+eyes NNS VB VBP VBZ
+feed'st VBP
+thy JJ VB VBD NN NNS VBP IN VBN
+light NN VBD JJ
+light's NN VBD JJ
+flame NN
+with IN
+self-substantial JJ
+fuel NN
+making VBG NN
+a DT
+famine NN
+where WRB
+abundance NN
+lies VBZ NNS
+self NN NNS PRP JJ PDT VB VBD
+self's NN NNS PRP JJ PDT VB VBD
+foe NN
+sweet JJ NNS NN VB
+too RB
+cruel JJ NN NNS
+art NN VBP RB VB IN VBZ
+art's NN VBP RB VB IN VBZ
+now RB
+world NN
+world's NN
+fresh JJ VBP
+ornament NN
+and CC
+only RB
+herald NN
+gaudy NN
+spring NN
+within IN
+bud NN
+buriest JJS
+content NN
+churl NN VBP
+mak'st NN
+waste NN IN
+in IN
+niggarding VBG
+pity NN
+or CC
+else RB
+this DT
+glutton NN
+be VB
+eat VB VBD NN
+due JJ
+grave NN
+thee NN JJ NNS VB VBP IN RB VBN
+when WRB
+forty NN
+winters NNS
+shall MD
+besiege VB VBP
+brow NN
+dig JJ
+deep JJ NN
+trenches NNS
+field NN
+youth NN RB
+youth's NN RB
+proud JJ NN
+livery NN
+so RB IN
+gazed VBN
+on IN
+will MD
+tattered JJ
+weed NN
+of IN
+small JJ
+worth JJ NN IN
+worth's JJ NN IN
+held VBN
+then RB
+being VBG
+asked VBN
+all DT PDT
+treasure NN
+lusty JJ
+days NNS
+say VB VBP NN
+sunken JJ
+were VBD
+an DT
+all-eating JJ
+shame NN JJ VB
+thriftless NN
+praise VB JJ NN VBP
+how WRB
+much RB JJ
+more RBR JJR
+deserved VBN
+use NN VBP VB IN
+if IN
+couldst NN
+answer NN
+fair JJ NN VB VBZ
+child NN
+mine JJ NN VB PRP VBP VBN
+sum VB NN
+my PRP$
+count NN VB VBP
+make VB VBP NN
+old JJ
+excuse NN VB IN
+proving VBG
+succession NN
+new JJ
+made VBN VBD VB
+see VB JJ VBP NN VBN
+blood NN
+warm NN
+feel'st VBD
+it PRP
+cold JJ NN VBP
+look NN VB VBP
+glass NN
+tell VB VBP NN
+face NN
+viewest NN
+is VBZ
+form VB NN
+another DT
+another's DT
+whose WP$
+repair NN VB
+not RB
+renewest JJ
+dost NN RBS VB JJ FW
+beguile IN
+unbless NN
+some DT
+mother NN
+mother's NN
+for IN
+she PRP
+uneared JJ
+womb NN
+disdains VBZ
+tillage NN
+husbandry NN
+who WP
+who's WP
+he PRP
+he's PRP
+fond VB NN
+tomb NN
+self-love NN JJ
+stop VB
+posterity NN
+calls VBZ
+back RP RB
+lovely JJ RB
+april NN JJ
+april's NN JJ
+her PRP$ PRP
+prime JJ
+through IN
+windows NNS
+age NN
+shalt VBD NN VB JJ
+despite IN
+wrinkles NNS
